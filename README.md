@@ -1,1 +1,47 @@
-# Nikhil-Portfolio
+# Portfolio
+<h1>Hi, I'm Nikhil! <br/><a href="https://github.com/Serioushydra/Nikhil-Portfolio">Programmer</a>, <a href="https://www.linkedin.com/in/nikhil-patil4249/">A Data Professional</a>
+
+<h2>👨‍💻 Data Science and Analytics Projects:</h2>
+
+- <b>Wayne State University HACKETHON: AgriX – AI Agriculture Intelligence Platform | Python, SQL, IBM watsonx <b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+- <b>University of Michigan Dearborn HACKETHON: Food – Connect (Hackathon) | Python, SQL, GCP, Fetch.ai, Angular, Node.js <b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+- <b>Intelligent Triage of Customer Support Tickets</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Energy Consumption Optimization using Multimodal System</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Regression Analysis</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Statistical Analysis</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Power Bi Projects</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- 🔭 I’m currently working on an AI Agent who would assist students to reserve event spaces at the University of Michigan Dearborn!
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="NikhilPatil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/nikhil-patil4249/
+Email: panikhil@umich.edu | patilnikhil0810@gmail.com
+| Contact: (313)-467-2653
+| Open to Relocation 
+
+
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
