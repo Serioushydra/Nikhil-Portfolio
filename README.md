@@ -8,7 +8,7 @@
 - <b>University of Michigan Dearborn HACKETHON: Food – Connect (Hackathon) | Python, SQL, GCP, Fetch.ai, Angular, Node.js <b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <b>Intelligent Triage of Customer Support Tickets</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/Serioushydra/ece5831-2025-final-project)
 - <b>Energy Consumption Optimization using Multimodal System</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Big Data Visualization and ANalytics</b>
