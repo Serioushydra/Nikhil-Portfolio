@@ -18,8 +18,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Statistical Analysis</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Power Bi Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 - 🔭 I’m currently working on an AI Agent who would assist students to reserve event spaces at the University of Michigan Dearborn!
 
 <h2> 🤳 Connect with me:</h2>
