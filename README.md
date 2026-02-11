@@ -12,7 +12,7 @@
 - <b>Energy Consumption Optimization using Multimodal System</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Big Data Visualization and ANalytics</b>
-  - [Analysis of NYC job postings to understand salary patterns and employment trends](https://github.com/Serioushydra/AgriX-main)
+  - [Analysis of NYC job postings to understand salary patterns and employment trends](https://github.com/Serioushydra/Big_Data_Analytics-Visualization)
   
 - <b>Regression Analysis</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
