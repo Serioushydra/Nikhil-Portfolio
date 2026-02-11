@@ -11,6 +11,9 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Energy Consumption Optimization using Multimodal System</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Big Data Visualization and ANalytics</b>
+  - [Analysis of NYC job postings to understand salary patterns and employment trends](https://github.com/Serioushydra/AgriX-main)
+  
 - <b>Regression Analysis</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Statistical Analysis</b>
