@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Science and Analytics Projects:</h2>
 
 - <b>Wayne State University HACKETHON: AgriX – AI Agriculture Intelligence Platform | Python, SQL, IBM watsonx <b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Use of AI agents in Agriculture](https://github.com/Serioushydra/AgriX-main) <b>
 - <b>University of Michigan Dearborn HACKETHON: Food – Connect (Hackathon) | Python, SQL, GCP, Fetch.ai, Angular, Node.js <b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <b>Intelligent Triage of Customer Support Tickets</b>
