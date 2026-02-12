@@ -15,10 +15,7 @@
   - [Analysis of NYC job postings to understand salary patterns and employment trends](https://github.com/Serioushydra/Big_Data_Analytics-Visualization)
 - <b>Retinal Disease Classification for Early Detection and Prevention</b>
    - [Retinal Disease Classification System using a large image dataset labeled of retinal images to detect multiple ocular conditions](https://github.com/Serioushydra/Retinal_Disease_Classification)
-- <b>Regression Analysis</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Statistical Analysis</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 - 🔭 I’m currently working on an AI Agent who would assist students to reserve event spaces at the University of Michigan Dearborn!
 
