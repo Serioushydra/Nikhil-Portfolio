@@ -10,7 +10,7 @@
 - <b>Intelligent Triage of Customer Support Tickets</b>
   - [Traditional Machine Learning baseline (TF-IDF + Logistic Regression) with a modern LLM-based approach](https://github.com/Serioushydra/ece5831-2025-final-project)
 - <b>Energy Consumption Optimization using Multimodal System</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/Serioushydra/Energy-Consumption-Project)
 - <b>Big Data Visualization and Analytics</b>
   - [Analysis of NYC job postings to understand salary patterns and employment trends](https://github.com/Serioushydra/Big_Data_Analytics-Visualization)
 - <b>Retinal Disease Classification for Early Detection and Prevention</b>
