@@ -1,5 +1,5 @@
 # Portfolio
-<h1>Hi, I'm Nikhil! <br/><a href="https://github.com/Serioushydra/Nikhil-Portfolio">Programmer</a>, <a href="https://www.linkedin.com/in/nikhil-patil4249/">A Data Professional</a>
+<h1>Hi, I'm Nikhil! <br/><a href="https://github.com/Serioushydra/Nikhil-Portfolio">Programmer</a>, <a href="https://www.linkedin.com/in/nikhil-patil4249/">a Data Enthusiast</a>
 
 <h2>👨‍💻 Data Science and Analytics Projects:</h2>
 
