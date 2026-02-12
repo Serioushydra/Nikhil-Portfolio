@@ -6,11 +6,11 @@
 - <b>Wayne State University HACKETHON: AgriX – AI Agriculture Intelligence Platform | Python, SQL, IBM watsonx <b>
   - [Use of AI agents in Agriculture](https://github.com/Serioushydra/AgriX-main) <b>
 - <b>University of Michigan Dearborn HACKETHON: Food – Connect (Hackathon) | Python, SQL, GCP, Fetch.ai, Angular, Node.js <b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [FoodCConnet Connecting Communities](https://github.com/ShubhamDoshi126/HackDearborn4) <b>
 - <b>Intelligent Triage of Customer Support Tickets</b>
   - [Traditional Machine Learning baseline (TF-IDF + Logistic Regression) with a modern LLM-based approach](https://github.com/Serioushydra/ece5831-2025-final-project)
 - <b>Energy Consumption Optimization using Multimodal System</b>
-  - [multimodal AI system that forecasts household electricity consumption](https://github.com/Serioushydra/Energy-Consumption-Project)
+  - [Multimodal AI system that forecasts household electricity consumption](https://github.com/Serioushydra/Energy-Consumption-Project)
 - <b>Big Data Visualization and Analytics</b>
   - [Analysis of NYC job postings to understand salary patterns and employment trends](https://github.com/Serioushydra/Big_Data_Analytics-Visualization)
 - <b>Retinal Disease Classification for Early Detection and Prevention</b>
