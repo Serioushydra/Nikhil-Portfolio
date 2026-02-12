@@ -6,7 +6,7 @@
 - <b>Wayne State University HACKETHON: AgriX – AI Agriculture Intelligence Platform | Python, SQL, IBM watsonx <b>
   - [Use of AI agents in Agriculture](https://github.com/Serioushydra/AgriX-main) <b>
 - <b>University of Michigan Dearborn HACKETHON: Food – Connect (Hackathon) | Python, SQL, GCP, Fetch.ai, Angular, Node.js <b>
-  - [FoodCConnet Connecting Communities](https://github.com/ShubhamDoshi126/HackDearborn4) <b>
+  - [FoodConnet Connecting Communities](https://github.com/ShubhamDoshi126/HackDearborn4) <b>
 - <b>Intelligent Triage of Customer Support Tickets</b>
   - [Traditional Machine Learning baseline (TF-IDF + Logistic Regression) with a modern LLM-based approach](https://github.com/Serioushydra/ece5831-2025-final-project)
 - <b>Energy Consumption Optimization using Multimodal System</b>
